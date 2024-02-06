@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Text
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Texto\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Text()
+comment2.params=text\ size\ cor
+comment2.target=Text(java.lang.String,\ int,\ greenfoot.Color)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=greenfoot.Color\ getCor()
+comment5.params=texto\ text\ size\ cor
+comment5.target=void\ updateText(java.lang.String,\ greenfoot.Actor,\ int,\ greenfoot.Color)
+numComments=6

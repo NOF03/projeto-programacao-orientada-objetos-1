@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Objects
+comment1.params=image\ constant
+comment1.target=void\ rescale(greenfoot.GreenfootImage,\ double)
+numComments=2
